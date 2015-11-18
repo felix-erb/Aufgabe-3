@@ -1,5 +1,5 @@
-Aufgabe-3
-Werkzeuge der Informatik Uebung 7
+(Aufgabe-3
+Werkzeuge der Informatik Uebung 7)
 
 ##Titel: Markdown (Aufgabe3, Uebung7)
 
@@ -7,7 +7,7 @@ Werkzeuge der Informatik Uebung 7
 2. Listeneintrager
 3. am Listeneintragsten
 
-Dumm  | Gescheit
+Gescheit  | Dumm
 ------------- | -------------
 Notizen machen | Grimassen in Vorlesung machen
 Repetieren  | Einschlafen
